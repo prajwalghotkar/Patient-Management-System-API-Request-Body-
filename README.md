@@ -176,3 +176,23 @@ This project is open source and available under the MIT License.
 This Patient Management System API provides a solid foundation for healthcare applications with its comprehensive features and robust design.
 this all description
 http://127.0.0.1:8000/docs#/default/create_patient_create_post
+---
+
+## screenshot
+<img width="1920" height="992" alt="Screenshot 2025-08-24 231429" src="https://github.com/user-attachments/assets/8ef63f8c-bca8-47cb-b915-a0b119635e27" />
+<img width="1920" height="976" alt="Screenshot 2025-08-24 231441" src="https://github.com/user-attachments/assets/fcbcbfed-f140-4026-af30-31f4935f7d1a" />
+<img width="1892" height="952" alt="Screenshot 2025-08-25 004042" src="https://github.com/user-attachments/assets/b4e8ce5c-3383-4646-8e7c-e2e8a25ef86b" />
+<img width="1893" height="953" alt="Screenshot 2025-08-25 004059" src="https://github.com/user-attachments/assets/d1f2711f-b0d8-4893-a434-2c91cb61697b" />
+<img width="1881" height="928" alt="Screenshot 2025-08-24 233315" src="https://github.com/user-attachments/assets/74b03689-3f62-4217-b355-0b7ff280fe2c" />
+<img width="1888" height="940" alt="Screenshot 2025-08-24 233616" src="https://github.com/user-attachments/assets/9113d914-5567-4991-a77a-c34a7b44b599" />
+<img width="1890" height="953" alt="Screenshot 2025-08-24 233634" src="https://github.com/user-attachments/assets/4abab0b0-d4e0-46f6-9a65-2cd07f984cae" />
+
+
+
+
+
+
+
+
+
+
