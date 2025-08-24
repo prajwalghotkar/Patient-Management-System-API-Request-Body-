@@ -186,6 +186,7 @@ http://127.0.0.1:8000/docs#/default/create_patient_create_post
 <img width="1881" height="928" alt="Screenshot 2025-08-24 233315" src="https://github.com/user-attachments/assets/74b03689-3f62-4217-b355-0b7ff280fe2c" />
 <img width="1888" height="940" alt="Screenshot 2025-08-24 233616" src="https://github.com/user-attachments/assets/9113d914-5567-4991-a77a-c34a7b44b599" />
 <img width="1890" height="953" alt="Screenshot 2025-08-24 233634" src="https://github.com/user-attachments/assets/4abab0b0-d4e0-46f6-9a65-2cd07f984cae" />
+<img width="1370" height="748" alt="Screenshot 2025-08-25 005534" src="https://github.com/user-attachments/assets/81947614-df4a-473c-ae23-26fd1508b794" />
 
 
 
