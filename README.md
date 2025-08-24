@@ -25,6 +25,7 @@ Core Functionality
 
 ####  BMI Categories
 The system automatically categorizes patients based on WHO BMI standards:
+
 <img width="259" height="146" alt="image" src="https://github.com/user-attachments/assets/858b1a5b-927f-4ff8-9e4f-c3776cecb1ae" />
 
 ---
@@ -92,6 +93,7 @@ uvicorn main:app --reload
 ---
 #### API Usage Examples
 ##### 1) Create a New Patient
+```
 curl -X POST "http://localhost:8000/create" \
 -H "Content-Type: application/json" \
 -d '{
@@ -103,33 +105,38 @@ curl -X POST "http://localhost:8000/create" \
   "height": 1.75,
   "weight": 68.5
 }'
-
+```
 ---
 ##### 2) Retrieve All Patients
+```
 curl -X GET "http://localhost:8000/view"
-
+```
 --- 
 ##### 3) Get Specific Patient
+```
 curl -X GET "http://localhost:8000/patient/P001"
-
+```
 ---
 ##### 4) Sort Patients by BMI (Descending)
+```
 curl -X GET "http://localhost:8000/sort?sort_by=bmi&order=desc"
-
+```
 ---
 ##### 5) Update Patient Information
+```
 curl -X PUT "http://localhost:8000/update/P001" \
 -H "Content-Type: application/json" \
 -d '{
   "weight": 72.0,
   "city": "Dallas"
 }'
-
+```
 ---
 
 ##### 6) Delete a Patient
+```
 curl -X DELETE "http://localhost:8000/delete/P001"
-
+```
 ---
 #### Testing the API
 ##### Using the Interactive Documentation
@@ -168,3 +175,4 @@ This project is open source and available under the MIT License.
 - Submit a pull request
 This Patient Management System API provides a solid foundation for healthcare applications with its comprehensive features and robust design.
 this all description
+http://127.0.0.1:8000/docs#/default/create_patient_create_post
