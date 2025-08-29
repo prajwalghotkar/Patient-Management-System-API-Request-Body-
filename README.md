@@ -203,7 +203,7 @@ http://127.0.0.1:8000/docs#/default/create_patient_create_post
 <img width="1920" height="948" alt="Screenshot 2025-08-30 004745" src="https://github.com/user-attachments/assets/0e7189a4-8af1-45dc-a234-8f38a9186575" />
 
 
-
+https://github.com/user-attachments/assets/785e360a-b247-4a37-a6b4-7aa8250f0c4c
 
 
 
