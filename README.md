@@ -188,7 +188,18 @@ http://127.0.0.1:8000/docs#/default/create_patient_create_post
 <img width="1890" height="953" alt="Screenshot 2025-08-24 233634" src="https://github.com/user-attachments/assets/4abab0b0-d4e0-46f6-9a65-2cd07f984cae" />
 <img width="1370" height="748" alt="Screenshot 2025-08-25 005534" src="https://github.com/user-attachments/assets/81947614-df4a-473c-ae23-26fd1508b794" />
 
+---
 
+# Insurance premimum category predictor.
+<img width="1920" height="984" alt="Screenshot 2025-08-28 115022" src="https://github.com/user-attachments/assets/b34521d4-4657-4de3-bc62-2b0a32e65160" />
+<img width="1920" height="967" alt="Screenshot 2025-08-28 115006" src="https://github.com/user-attachments/assets/2e45b39f-4006-49de-8d58-80b687882510" />
+<img width="1920" height="965" alt="Screenshot 2025-08-28 115217" src="https://github.com/user-attachments/assets/7e045fc7-10e6-45a9-8667-b7e4cb499d38" />
+<img width="1920" height="940" alt="Screenshot 2025-08-28 115513" src="https://github.com/user-attachments/assets/67e17092-144e-4d73-a17a-1ca051da7ac3" />
+<img width="1920" height="936" alt="Screenshot 2025-08-28 115520" src="https://github.com/user-attachments/assets/e833ff66-ad97-4c6e-9477-215f7d284c67" />
+
+---
+<img width="1920" height="982" alt="Screenshot 2025-08-28 123433" src="https://github.com/user-attachments/assets/81c0132f-b65c-4519-85c7-6de4d3205e98" />
+<img width="1920" height="936" alt="Screenshot 2025-08-28 122029" src="https://github.com/user-attachments/assets/4159f144-bb40-4562-8a05-03c785f2071d" />
 
 
 
