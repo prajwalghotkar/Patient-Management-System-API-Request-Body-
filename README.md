@@ -202,7 +202,7 @@ http://127.0.0.1:8000/docs#/default/create_patient_create_post
 <img width="1920" height="936" alt="Screenshot 2025-08-28 122029" src="https://github.com/user-attachments/assets/4159f144-bb40-4562-8a05-03c785f2071d" />
 <img width="1920" height="948" alt="Screenshot 2025-08-30 004745" src="https://github.com/user-attachments/assets/0e7189a4-8af1-45dc-a234-8f38a9186575" />
 
-<!-- Failed to upload "Streamlit - Google Chrome 2025-08-30 00-43-20.mp4" -->
+
 
 
 
